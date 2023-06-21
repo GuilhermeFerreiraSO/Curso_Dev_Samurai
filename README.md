@@ -1,2 +1,2 @@
-# Curso_Dev_Samurai
- 
+# Curso Dev Samurai
+ Meu primeiro curso básico on-line!
